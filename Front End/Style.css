@@ -1,0 +1,23 @@
+ .root{
+     -fx-background-color : #bdd9ff;
+ }
+ .button{
+     -fx-background-color : #1f06ca;
+     -fx-alignment: center;
+     -fx-text-fill : white;
+     -fx-font-weight: bold;
+     -fx-font-size: 15;
+     -fx-max-height: 25;
+     -fx-min-width: 200;
+     -fx-background-radius: 7;
+ }
+
+ #rbutton .button{
+     -fx-padding: 50;
+ }
+ .label{
+     -fx-font-weight: bold;
+ }
+ .table-column {
+     -fx-alignment: center;
+ }
